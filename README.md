@@ -17,7 +17,7 @@ Once the gesture is detected, the program provides visual and auditory feedback 
 
 Run the following command on command prompt:
 ```bash
-python3 src/webshooting_detector.py
+python src/webshooting_detector.py
 ```
 
 ## License
