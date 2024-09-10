@@ -20,6 +20,8 @@ Run the following command on command prompt:
 python3 src/webshooting_detector.py
 ```
 
+## License
+This project is licensed under the MIT License . See the [LICENSE](LICENSE) file for details.
 ##
 
 Ali Berk Karaarslan
